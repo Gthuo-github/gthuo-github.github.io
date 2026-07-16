@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+My Professional Portfolio
+
+<!-- <<<<<<< HEAD
 # gthuo-github.github.io
 My Professional Portfolio
 =======
@@ -41,4 +44,4 @@ GitHub Pages, Netlify, Vercel, or any static host.
 ```bash
 npm run build
 ```
->>>>>>> 11bdf56 (Initial Commit to My Portfolio)
+>>>>>>> 11bdf56 (Initial Commit to My Portfolio) -->
